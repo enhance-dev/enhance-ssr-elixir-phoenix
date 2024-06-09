@@ -1,5 +1,9 @@
 # enhance-ssr-elixir-phoenix
 
+If you would like to watch a full video on this, you can do so here:
+
+[![enhance-elixir](https://github.com/Benanna2019/enhance-ssr-elixir-phoenix/assets/65513685/86412b68-0b9e-4cec-8d27-94dddc4c4476)](https://www.youtube.com/watch?v=LVlDhNxsSTQ)
+
 Setup Steps
 
 1. Install Rust (if not already installed) - run this in a terminal `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
