@@ -1,6 +1,6 @@
 # enhance-ssr-elixir-phoenix
 
-If you would like to watch a full video on this, you can do so here:
+Here is a video if you would like to watch it:
 
 [![enhance-elixir](https://github.com/Benanna2019/enhance-ssr-elixir-phoenix/assets/65513685/86412b68-0b9e-4cec-8d27-94dddc4c4476)](https://www.youtube.com/watch?v=LVlDhNxsSTQ)
 
